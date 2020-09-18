@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/reactblog/static/css/main.0449d095.chunk.css",
+    "main.js": "/reactblog/static/js/main.8dc4c44f.chunk.js",
+    "main.js.map": "/reactblog/static/js/main.8dc4c44f.chunk.js.map",
+    "runtime-main.js": "/reactblog/static/js/runtime-main.686638e4.js",
+    "runtime-main.js.map": "/reactblog/static/js/runtime-main.686638e4.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/reactblog/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6c0c2c5f.chunk.js": "/reactblog/static/js/2.6c0c2c5f.chunk.js",
+    "static/js/2.6c0c2c5f.chunk.js.map": "/reactblog/static/js/2.6c0c2c5f.chunk.js.map",
+    "index.html": "/reactblog/index.html",
+    "precache-manifest.a3a0db09b5dccde9e291a81be800e01c.js": "/reactblog/precache-manifest.a3a0db09b5dccde9e291a81be800e01c.js",
+    "service-worker.js": "/reactblog/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/reactblog/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.0449d095.chunk.css.map": "/reactblog/static/css/main.0449d095.chunk.css.map",
+    "static/js/2.6c0c2c5f.chunk.js.LICENSE.txt": "/reactblog/static/js/2.6c0c2c5f.chunk.js.LICENSE.txt",
+    "static/media/20859.jpg": "/reactblog/static/media/20859.6798322b.jpg",
+    "static/media/2170435.jpg": "/reactblog/static/media/2170435.56fd849e.jpg",
+    "static/media/631.jpg": "/reactblog/static/media/631.515afb90.jpg",
+    "static/media/632.jpg": "/reactblog/static/media/632.effcd656.jpg",
+    "static/media/6547.jpg": "/reactblog/static/media/6547.a75f74ee.jpg",
+    "static/media/Busines.jpg": "/reactblog/static/media/Busines.d015cc29.jpg",
+    "static/media/accounting.jpg": "/reactblog/static/media/accounting.a29d676c.jpg",
+    "static/media/art.jpg": "/reactblog/static/media/art.ccb0990b.jpg",
+    "static/media/consultancy1.png": "/reactblog/static/media/consultancy1.6380d37f.png",
+    "static/media/english.jpg": "/reactblog/static/media/english.972ed0fc.jpg",
+    "static/media/h&f.jpg": "/reactblog/static/media/h&f.35d89a8f.jpg",
+    "static/media/logo.png": "/reactblog/static/media/logo.383fc776.png",
+    "static/media/index.css": "/reactblog/static/media/map.aec05d41.jpg",
+    "static/media/math.jpg": "/reactblog/static/media/math.b26d89f6.jpg",
+    "static/media/meeting-3.png": "/reactblog/static/media/meeting-3.0073f2ea.png",
+    "static/media/photography.jpg": "/reactblog/static/media/photography.9e93c20a.jpg",
+    "static/media/science.jpg": "/reactblog/static/media/science.f85aa714.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.686638e4.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.6c0c2c5f.chunk.js",
+    "static/css/main.0449d095.chunk.css",
+    "static/js/main.8dc4c44f.chunk.js"
+  ]
+}
